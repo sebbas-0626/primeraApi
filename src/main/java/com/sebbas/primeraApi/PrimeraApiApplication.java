@@ -10,4 +10,5 @@ public class PrimeraApiApplication {
 		SpringApplication.run(PrimeraApiApplication.class, args);
 	}
 
+
 }
